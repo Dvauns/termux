@@ -1,0 +1,7 @@
+name:DanilVusenko
+gmail:danilvusenko3@gmail.com
+program:termux.sh
+program install:
+Termux-Desktop adi1090x https://github.com/adi1090x/termux-desktop
+hiddy shyn0 https://github.com/shyn0/hiddy
+host htr-tech https://github.com/htr-tech/host
