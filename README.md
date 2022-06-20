@@ -3,7 +3,7 @@
 
 git clone https://gitlab.com/Dvauns/termux.git
 
-cd Termux
+cd termux
 
 bash termux.sh
 
