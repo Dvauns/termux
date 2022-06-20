@@ -2,7 +2,9 @@
 и устнавлюетса она так
 
 git clone https://gitlab.com/Dvauns/termux.git
+
 cd Termux
+
 bash termux.sh
 
 она очень скромная но я буду ее даробатывать 
