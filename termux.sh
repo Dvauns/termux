@@ -10,9 +10,9 @@ read doing #здесь мы читаем в переменную $doing со с�
 
 
 case $doing in
-"1") ./Data/Script.sh # если $doing содержит 1, то запустить Script.sh
+"1") bash /data/data/com.termux/files/home/termux/Data/Script.sh # если $doing содержит 1, то запустить Script.sh 
 ;;
-"2") ./Data/aboutUs.txt # если $doing содержит 2, то запустить aboutUs.txt
+"2") nano /data/data/com.termux/files/home/Data/ aboutUs.txt # если $doing содержит 2, то запустить aboutUs.sh 
 ;;
 "3") exit 0
 esac
