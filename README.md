@@ -1,7 +1,7 @@
 Всем привет я хочю вам показать свою програму ета моя первая програма поетому не судите строго она устанавливает кое какие пакеты
 и устнавлюетса она так
 
-git clone https://gitlab.com/Dvauns/termux.git
+git clone https://github.com/Dvauns/termux
 
 cd termux
 
